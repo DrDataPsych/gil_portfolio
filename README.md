@@ -1,6 +1,6 @@
-# gil_portfolio
+# Gil_portfolio
 
-This is an overview of my data science portfolio with a short description
+## This is an overview of my data science portfolio with a short description
 
 # [Project 1: Web Scraping: Federal Institute for Drugs and Medical Devices Website (Germany)](https://github.com/DrDataPsych/bfarmWebScrap)
 - Scraped every DIGA-Subpage on the Federal Institute for Drugs and Medical Devices Website (BfArM) using Python and Selenium
