@@ -14,6 +14,6 @@
 - Analyzing Top 100 Tweets vs. Top 100 Flops
 - Created Wordclouds for both groups
 
-![alt text](https://github.com/DrDataPsych/gil_portfolio/blob/main/images/top100_wordcloud.png)
+![alt text](https://github.com/DrDataPsych/gil_portfolio/blob/main/images/top100_wordcloud.png | width=100)
 
 ![alt text](https://github.com/DrDataPsych/gil_portfolio/blob/main/images/flop100.png)
