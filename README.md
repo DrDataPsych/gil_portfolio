@@ -7,6 +7,8 @@
 - Extracted information from HTML files (classes) and saved them in a data frame in Python using pandas
 - Did some exploratory data analysis using Python module Pandas Profiling
 
+![](https://github.com/DrDataPsych/gil_portfolio/blob/main/images/top100_wordcloud.png)
+
 # [Project 2: Data Analysis of the official Twitter account Borussia Mönchengladbach (@borussia)](https://github.com/DrDataPsych/BMG)
 
 - First created a developer Twitter account to receive access and use Twitter API (Tweepy)
