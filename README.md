@@ -7,7 +7,7 @@
 - Extracted information from HTML files (classes) and saved them in a data frame in Python using pandas
 - Did some exploratory data analysis using Python module Pandas Profiling
 
-![](https://github.com/DrDataPsych/gil_portfolio/blob/main/images/donut.jpg)
+![](/images/donut.jpg)
 
 # [Project 2: Data Analysis of the official Twitter account Borussia Mönchengladbach (@borussia)](https://github.com/DrDataPsych/BMG)
 
@@ -16,6 +16,6 @@
 - Analyzing Top 100 Tweets vs. Top 100 Flops
 - Created Wordclouds for both groups
 
-![alt text](https://github.com/DrDataPsych/gil_portfolio/blob/main/images/top100_wordcloud.png)
+![alt text](/images/top100_wordcloud.png)
 
-![alt text](https://github.com/DrDataPsych/gil_portfolio/blob/main/images/flop100.png)
+![alt text](/images/flop100.png)
