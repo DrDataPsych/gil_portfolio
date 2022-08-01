@@ -17,7 +17,8 @@
 - Created Wordclouds for both groups
 
 <div>
-<img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/top100_wordcloud.png" width=450 align=left> <img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/flop100.png" width=450 align=right>
+<img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/top100_wordcloud.png" width=450 align=left> 
+<img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/flop100.png" width=450 align=right>
 </div>
 
 <br/>
