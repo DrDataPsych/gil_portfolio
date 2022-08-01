@@ -7,9 +7,7 @@
 - Extracted information from HTML files (classes) and saved them in a data frame in Python using pandas
 - Did some exploratory data analysis using Python module Pandas Profiling
 
-![](/images/donut.jpg)
-
-<img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/donut.jpg" width=300 align=right>
+<img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/donut.jpg" width=600 align=middle>
 
 # [Project 2: Data Analysis of the official Twitter account Borussia Mönchengladbach (@borussia)](https://github.com/DrDataPsych/BMG)
 
