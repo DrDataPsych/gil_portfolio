@@ -19,3 +19,8 @@
 
 <img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/top100_wordcloud.png" width=450 align=left> <img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/flop100.png" width=450 align=right>
 
+# [Project 3: Spotify Review Analysis (Google Play Store) with regard to App Design](https://github.com/DrDataPsych/Spotify)
+- Scraped the data with google_play_scraper (126166 reviews)
+- Filtered reviews for certain design-words (11701 reviews)
+- Created wordclouds for different ratings (1-5)
+- Analyzed the wordclouds
