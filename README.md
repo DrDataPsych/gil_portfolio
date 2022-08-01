@@ -9,6 +9,8 @@
 
 ![](/images/donut.jpg)
 
+<img src="https://github.com/DrDataPsych/gil_portfolio/blob/main/images/donut.jpg" width=300 align=right>
+
 # [Project 2: Data Analysis of the official Twitter account Borussia Mönchengladbach (@borussia)](https://github.com/DrDataPsych/BMG)
 
 - First created a developer Twitter account to receive access and use Twitter API (Tweepy)
